@@ -286,6 +286,9 @@ section {
 .about-pic {
   border-radius: 2rem;
 }
+.about-ppic{
+  border-radius: 3rem;
+}
 
 .arrow {
   position: absolute;
